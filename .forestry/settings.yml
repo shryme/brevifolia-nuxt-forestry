@@ -11,8 +11,6 @@ sections:
   label: Blog Posts
   create: documents
   match: "**/*"
-  templates:
-  - blog-post
 - type: document
   path: content/data/authors.json
   label: Author List
@@ -21,11 +19,6 @@ sections:
   label: Info Page
 - type: heading
   label: Content FR
-- type: directory
-  path: content/blog-posts
-  label: Blog Posts FR
-  create: documents
-  match: "**/*"
 - type: heading
   label: Config
 - type: document

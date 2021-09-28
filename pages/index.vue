@@ -1,5 +1,3 @@
-// the posts are passed down to the Blog List component to be rendered
-
 <template>
   <div>
     <BlogList :posts="posts" />

@@ -1,8 +1,8 @@
 ---
 author: Friedrich Nietzsche
-title: The Geneology of Morals
+title: The Geneology of Morals2
 slug: the-geneology-of-morals
-date: 2019-08-19T07:00:00Z
+date: 2019-08-19T07:00:00.000+00:00
 hero_image: "/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
 
 ---
